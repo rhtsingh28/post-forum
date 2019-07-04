@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import PostView from './PostView.js';
-import UserView from './UserView.js';
+import PostView from './postView.js';
+import UserView from './userView.js';
 
 class PostPreview extends Component {
 

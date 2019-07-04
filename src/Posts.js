@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
-import PostPreview from './PostPreview.js';
-import Search from './Search.js';
+import PostPreview from './postPreview.js';
+import Search from './search.js';
 import { Promise } from 'q';
 
 class Posts extends Component {

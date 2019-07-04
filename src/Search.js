@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import List from './List.js';
+import List from './list.js';
 class Search extends Component {
 
     constructor () {
